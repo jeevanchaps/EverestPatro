@@ -298,11 +298,6 @@ swift build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Nepali Calendar System**: Based on official Nepal calendar
-- **SwiftUI**: Apple's modern UI framework
-- **Community**: Thanks to all contributors and users
 
 ## 📞 Support
 
