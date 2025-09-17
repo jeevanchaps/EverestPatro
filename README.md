@@ -42,14 +42,20 @@ A beautiful, native macOS menu bar application that displays the current Nepali 
 
 ## 📸 Screenshots
 
+### App Interface
+![Nepali Calendar Interface](app-interface.png)
+
+*Beautiful dark-themed calendar popup showing Nepali dates with English dates below, live Nepal time, and Saturday highlighting*
+
 ### Menu Bar Integration
 The app appears as a clean Nepali date in your macOS menu bar (e.g., "१ आश्विन").
 
-### Calendar Popup
+### Calendar Popup Features
 - **Header Layout**: आज → Live Time → आश्विन - 2082 → ← →
 - **Month Display**: Shows overlapping English months (e.g., "Sep/Oct - 2025")
 - **Weekend Highlighting**: Saturday (शनि) column dates in red
 - **Today Highlighting**: Current date with blue rounded border
+- **Dual Date System**: Large Nepali dates with small English dates below
 
 ## 🚀 Quick Installation
 
