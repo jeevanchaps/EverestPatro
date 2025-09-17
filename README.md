@@ -329,8 +329,4 @@ If you find this useful, please ⭐ star this repository to help others discover
 
 ---
 
-### Quick Links
-- [Download Latest Release](https://github.com/yourusername/nepali-calendar-macos/releases)
-- [Report Issues](https://github.com/yourusername/nepali-calendar-macos/issues)
-- [Request Features](https://github.com/yourusername/nepali-calendar-macos/issues/new)
-- [Contribute](https://github.com/yourusername/nepali-calendar-macos/pulls)
+
